@@ -1,16 +1,53 @@
-## Hi there 👋
+# João Luiz 👋
 
-<!--
-**joaolferr/joaolferr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-End em constante evolução.
+Focado em construção sólida de base, consistência e projetos reais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+Atualmente aprofundando fundamentos de:
+
+- HTML semântico
+- CSS moderno (Flexbox, Grid, responsividade)
+- JavaScript para manipulação de DOM e lógica
+
+Meu foco não é apenas escrever código,
+mas entender estrutura, clareza e organização.
+
+Construindo disciplina diária através de projetos práticos.
+
+---
+
+## 🛠 Tecnologias
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📌 Projetos
+
+🔹 Landing Page Portfólio  
+https://github.com/joaolferr/Landing-Page
+
+---
+
+## 📈 Em evolução
+
+Atualmente estudando:
+
+- Estruturação de código escalável
+- Melhoria de performance
+- Boas práticas de organização
+- Padrões de layout consistentes
+
+Compromisso: evoluir tecnicamente todos os dias.
+
+---
+
+## 📫 Contato
+
+Email: jluizfinc@gmail.com
