@@ -31,11 +31,15 @@ Construindo disciplina diária através de projetos práticos.
 ## 📌 Projetos
 
 🔹 Landing Page Portfólio  
+
 Site: https://joao-luiz-desenvolvedor-front-end.vercel.app/
+
 Código: https://github.com/joaolferr/Landing-Page
 
 🔹 Landing Page Cafeteria 
-Site: canela-cafe-orpin.vercel.app
+
+Site: https://canela-cafe-orpin.vercel.app/
+
 Código: https://github.com/joaolferr/Landing-Cafeteria
 
 ---
